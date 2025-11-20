@@ -1,0 +1,5 @@
+{
+  "name": "PokeDex AI Chatbot",
+  "description": "A retro game-style chatbot that identifies Pokemon and displays their stats using Gemini AI.",
+  "requestFramePermissions": []
+}
